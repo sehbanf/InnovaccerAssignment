@@ -18,7 +18,7 @@
    python downloadModel.py
    ```
 
-## 🚀 Usage
+## Usage
 
 Run the application using:
 
